@@ -1,9 +1,3 @@
-# Patchwork — README.md (GitHub-ready, v2.0)
-
-Paste everything below the line into your repo's `README.md`. Fill in the two `your-username` placeholders before pushing.
-
-* * *
-
 # 🧩 Patchwork
 
 **HTML Click-Edit Studio — click the words on your page, watch the code rewrite itself.**
