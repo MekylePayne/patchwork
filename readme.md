@@ -1,10 +1,23 @@
-# 🧩 Patchwork
-
-**HTML Click-Edit Studio — click the words on your page, watch the code rewrite itself.**
+![Patchwork — HTML Click-Edit Studio](assets/patchwork-logo.png)
   
-![version](https://img.shields.io/badge/version-2.0-c8f14f)  ![deps](https://img.shields.io/badge/dependencies-zero-c8f14f)  ![build](https://img.shields.io/badge/build%20step-none-c8f14f)  ![privacy](https://img.shields.io/badge/privacy-100%25%20local-c8f14f)  ![](data://7f2381d8-0c8f-46df-ae0e-ddfd25f104d2)
 
-Use PatchWork Today! --> https://mekylepayne.github.io/patchwork/patchwork.html
+  
+![version](https://img.shields.io/badge/version-2.1-c8f14f?style=flat-square)
+
+![dependencies](https://img.shields.io/badge/dependencies-zero-c8f14f?style=flat-square)
+
+![build step](https://img.shields.io/badge/build%20step-none-c8f14f?style=flat-square)
+
+![privacy](https://img.shields.io/badge/privacy-100%25%20local-c8f14f?style=flat-square)
+  
+
+**Click the words on your page — watch the code rewrite itself.**
+_One file · No server · No install · Nothing leaves your browser_
+  
+
+  
+![Try it live](https://img.shields.io/badge/%E2%96%B6_TRY_IT_LIVE-mekylepayne.github.io%2Fpatchwork-c8f14f?style=for-the-badge&labelColor=161a04)
+
 * * *
 
 ## What is it?
@@ -59,7 +72,7 @@ Think of it as a click-to-edit CMS for static HTML, running entirely client-side
     
 *   **Snapshots** — name and save up to 12 checkpoints per page (`Ctrl+D` for quick snapshots); restoring auto-saves a safety snapshot first
     
-*   **Diff view** — side-by-side original vs current with `-`/`+` line stats, so you can review everything before export
+*   **Diff view** — fullscreen side-by-side original vs current with `-`/`+` line stats and synced scrolling, so you can review everything before export
     
 *   **Safe re-indent on export** (optional) — readable whitespace without touching content, attributes, or `script/style/pre` bodies
     
@@ -88,21 +101,17 @@ Think of it as a click-to-edit CMS for static HTML, running entirely client-side
 
 ### Run locally
 
-1.  Download `patchwork.html`
+1.  Download `main.html` (or `patchwork.html`) from the [latest release](../../releases)
     
-2.  Open it in Chrome, Edge, or Firefox
+2.  Double-click it — opens in Chrome, Edge, or Firefox
     
 
 That's it. The file is the entire application.
 
-### Host on GitHub Pages
+### Run It In Your Browser
 
-1.  Create a repository and upload this file renamed to `index.html`
-    
-2.  **Settings → Pages →** Deploy from a branch → `main` / `/(root)` → Save
-    
-3.  Live at `https://your-username.github.io/patchwork/` in about a minute
-    
+1.  Bookmark and enter the link! Live forever, and auto-updates.
+https://mekylepayne.github.io/patchwork/patchwork.html
 
 No build step, no dependencies, no configuration. Sessions autosave per-browser, so exported files remain your source of truth across machines.
 
@@ -161,7 +170,6 @@ No build step, no dependencies, no configuration. Sessions autosave per-browser,
     
 *   Vanilla JavaScript, zero dependencies, one file, ~75 KB
     
-
 ## 📄 License
 
 MIT — take it, use it, sell it, break it, fix it.
