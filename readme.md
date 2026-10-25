@@ -16,7 +16,7 @@ _One file · No server · No install · Nothing leaves your browser_
   
 
   
-![Try it live](https://img.shields.io/badge/%E2%96%B6_TRY_IT_LIVE-mekylepayne.github.io%2Fpatchwork-c8f14f?style=for-the-badge&labelColor=161a04)
+Try It Live! Yours Forever. --> https://mekylepayne.github.io/patchwork/patchwork.html
 
 * * *
 
